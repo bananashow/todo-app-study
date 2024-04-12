@@ -9,7 +9,7 @@
 
 ## 🎈학습
 - react-native/expo 개발 환경 구축
-- react-native의 input/button event를 다뤄봄
+- react-native의 input/button event, Alert을 다뤄봄
 - AsyncStorage의 활용
 
 <p float="left">
